@@ -6,6 +6,22 @@ AtliQ Hardware has grown rapidly in recent years and has decided to implement da
 
 ### Dataset Structure:
 
+The project uses a Star Schema data model, with multiple fact tables connected to shared dimension tables.
+
+#### Fact Tables: 
+
+fact_sales_monthly – Contains monthly sales transactions, including sold quantity and related sales metrics.
+fact_forecast_monthly – Contains monthly demand forecasts used to evaluate forecast accuracy and supply chain performance.
+fact_freight_cost – Contains freight and logistics cost information.
+fact_gross_price – Contains product-level gross pricing information.
+fact_manufacturing_cost – Contains manufacturing cost information.
+
+#### Dimension Tables:
+*dim_customer* – Customer details such as customer name, market, and region.
+*dim_product* – Product details including product, segment, division, and category information.
+dim_date – Date-related attributes used for time-based analysis.
+dim_market – Market, region, and related geographical information.
+
 ### Key Findings:
 
 ### Technical Learnings:
