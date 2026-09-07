@@ -1,10 +1,10 @@
-## Business-Insights-360
+# Business-Insights-360
 
-### Project Overview:
+## Project Overview:
 
 AtliQ Hardware has grown rapidly in recent years and has decided to implement data analytics using Power BI for the first time to surpass competitors in the market and make data-driven decisions. This project is expected to answer stakeholders' questions across all aspects, including **finance, sales, marketing, and supply chain**.
 
-### Dataset Structure:
+## Dataset Structure:
 
 The project uses a **Star Schema** data model, with multiple fact tables connected to shared dimension tables.
 
@@ -28,9 +28,9 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 - *targets* – Net Sales and gross margin targets for performance comparison
 - *operational_expenses* – Ads, promotion, and other operational expenses data used for profitability analysis
 
-### Key Insights and Recommendations:
+## Key Insights and Recommendations:
 
-### Technical Learnings:
+## Technical Learnings:
 
 - Preparation of questions that should be asked before starting the project
 - Creating calculated columns
@@ -48,7 +48,7 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 - Publishing reports to Power BI service
 - Setting up a personal gateway to set up the auto-refresh of data
 
-### Soft Skills:
+## Soft Skills:
 
  - Refined understanding of multiple domains: finance, sales, marketing, supply chain, and executive
  - Designing user-centric dashboards with empathy in mind
