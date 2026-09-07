@@ -28,7 +28,7 @@ AtliQ Hardware has grown rapidly in recent years and has decided to implement da
 
 ### Soft Skills:
 
- - Refined understanding of different domains: finance, sales, marketing, supply chain, and executive
+ - Refined understanding of multiple domains: finance, sales, marketing, supply chain, and executive
  - Designing user-centric dashboards with empathy in mind
  - Managing stakeholders' requirements
 
