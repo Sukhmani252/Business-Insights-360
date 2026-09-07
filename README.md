@@ -6,7 +6,7 @@ AtliQ Hardware has grown rapidly in recent years and has decided to implement da
 
 ### Dataset Structure:
 
-The project uses a Star Schema data model, with multiple fact tables connected to shared dimension tables.
+The project uses a **Star Schema** data model, with multiple fact tables connected to shared dimension tables.
 
 #### Fact Tables: 
 
