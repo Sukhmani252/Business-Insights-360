@@ -24,9 +24,9 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 
 #### Additional Data:
 
-- *Market Share* – Market share information for competitive analysis
-- *Targets* – Net Sales and gross margin targets for performance comparison
-- *Operational Expenses* – Ads, promotion, and other operational expenses data used for profitability analysis
+- *market_share* – Market share information for competitive analysis
+- *targets* – Net Sales and gross margin targets for performance comparison
+- *operational_expenses* – Ads, promotion, and other operational expenses data used for profitability analysis
 
 ### Key Insights and Recommendations:
 
