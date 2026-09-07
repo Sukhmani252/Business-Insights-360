@@ -22,6 +22,12 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 - *dim_date* – Date-related attributes used for time-based analysis.
 - *dim_market* – Market, region, and related geographical information.
 
+#### Additional Data:
+
+- *Market Share* – Market share information for competitive analysis
+- *Targets* – Net Sales and gross margin targets for performance comparison
+- *Operational Expenses* – Ads, promotion, and other operational expenses data used for profitability analysis
+
 ### Key Insights and Recommendations:
 
 ### Technical Learnings:
