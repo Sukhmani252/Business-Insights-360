@@ -50,7 +50,7 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 
 ## Soft Skills:
 
- - Refined understanding of multiple domains: finance, sales, marketing, supply chain, and executive
+ - Refined understanding of multiple domains: finance, sales, marketing and supply chain
  - Designing user-centric dashboards with empathy in mind
  - Managing stakeholders' requirements
 
