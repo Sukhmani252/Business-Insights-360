@@ -4,6 +4,8 @@
 
 AtliQ Hardware has grown rapidly in recent years and has decided to implement data analytics using Power BI for the first time to surpass competitors in the market and make data-driven decisions. This project is expected to answer stakeholders' questions across all aspects, including **finance, sales, marketing, and supply chain**.
 
+Explore the dashboard here
+
 ## Dataset Structure:
 
 The project uses a **Star Schema** data model, with multiple fact tables connected to shared dimension tables.
