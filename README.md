@@ -34,7 +34,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 1. Finance View:
 
-1. Finance View: Displays revenue growth, profitability, gross margins, and a full glimpse of the P & L statement to track financial performance.
+*Displays revenue growth, profitability, gross margins, and a full glimpse of the P & L statement to track financial performance.*
 
 Key Insights:
 
