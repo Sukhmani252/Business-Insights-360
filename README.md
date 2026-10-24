@@ -36,6 +36,23 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 ![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104237.png)
 
+#### 2. Sales View:
+
+![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104445.png)
+
+#### 3. Marketing View:
+
+![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104531.png)
+
+#### 4. Supply Chain View:
+
+![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104609.png)
+
+#### 5. Executive View:
+
+![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104655.png)
+
+
 ## Technical Learnings:
 
 - Preparation of questions that should be asked before starting the project
