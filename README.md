@@ -70,7 +70,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 - All segments reported negative net margins (-14.6% to -16.4%), despite gross margins of approximately 38%. Notebooks and Peripherals contributed around 65% of sales and substantial losses of $651M and $467M, respectively.
 - Storage recorded the highest gross margin (39.4%) and the least negative net margin (-14.6%), with sales of $167M.
-- APAC contributed the highest regional net sales ($147.98M) but reported a net loss of $1.52M (-1.03% net margin). EU was marginally profitable (0.62% net margin), while LATAM was near break-even (-0.08%).
+
 
 **Recommendations:**
 
@@ -94,8 +94,20 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 5. Executive View:
 
+*Displays key financial metrics, revenue contribution, top customers and products, market share, and sub-region performance for a high-level business overview.*
 
+**Key Insights:**
 
+- Net sales grew 43.9% to $10.63B, but net profit margin fell to -16.14% from +2.2% in 2019, despite stable gross margins of around 37–38%.
+- India (-38.1%) and North America (-24.2%) have the weakest net margins, together contributing 47% of net sales. LATAM contributes only 2.8% of sales and has an approximately -33% net margin.
+- AtliQ's market share grew from 5.9% in 2022 to 7.7% in 2025, indicating improved competitiveness.
+- The PC division contributes 54.9% of net sales, while the top five customers account for 40.1% and retailers contribute 71.59%, highlighting dependence on a single product division, key customers, and sales channels.
+
+**Recommendations:**
+
+- Improve profitability by reviewing operating costs in India and North America, which have the weakest net margins.
+- Review LATAM's cost structure and investment strategy to establish a clear path to profitability.
+- Diversify revenue across product divisions, customer accounts, and sales channels while expanding market share in profitable segments.
 
 ## Technical Learnings:
 
