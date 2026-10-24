@@ -83,7 +83,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 **Key Insights:**
 
-- Forecast accuracy improved to 80.89% (+3.8 percentage points), but net error worsened to -10.3%, indicating a persistent under-forecasting bias. Many customers and products were flagged for out-of-stock risk.
+- Forecast accuracy improved to 80.89% (+3.8%), but net error worsened to -10.3%, indicating a persistent under-forecasting bias. Many customers and products were flagged for out-of-stock risk.
 - Notebooks recorded the lowest forecast accuracy (76.26%) and the highest net error (-15.6%). Accuracy fell to approximately 71% in June, the weakest month.
 - The highest-selling customers, Amazon, AtliQ e-Store, and AtliQ Exclusive, are also the most under-forecasted (-3.4M, -2.8M, and -2.0M units), making up about 30% of total net error and putting the largest share of revenue at risk.
 
