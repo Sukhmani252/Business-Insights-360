@@ -48,8 +48,6 @@ The dashboard is built with 5 views that answer key business questions across fi
 - Tighten discount approvals, renegotiate deduction terms, and reduce manufacturing and operating costs together to close the $1.72bn loss.
 - Align inventory, promotions, and budgets with the September to December peak, and run targeted campaigns during the January to June slowdown.
 
-![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104237.png)
-
 #### 2. Sales View:
 
 *Analyzed customer and product performance to identify key revenue contributors and opportunities to improve profitability.*
@@ -59,29 +57,25 @@ The dashboard is built with 5 views that answer key business questions across fi
 - Amazon (36.9%) and Sage (32.8%) recorded gross margins below the overall average of 37.84%, while AtliQ Exclusive achieved the highest margin at 46.2%.
 - Amazon ($1.23B), AtliQ e-Store ($1.10B), and AtliQ Exclusive ($872M) were the top three customers by net sales.
 
-**Recommendations: **
+**Recommendations:**
 
 - Review pricing and commercial terms for low-margin key accounts while expanding higher-margin channels such as AtliQ Exclusive and e-Store.
 - Strengthen relationships with major revenue-generating customers through dedicated account management.
-
-![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104445.png)
 
 #### 3. Marketing View:
 
 *Displays product segment performance, sales contribution, gross margins, and net profitability across segments and regions.*
 
-**Key Insights: **
+**Key Insights:**
 
 - All segments reported negative net margins (-14.6% to -16.4%), despite gross margins of approximately 38%. Notebooks and Peripherals contributed around 65% of sales and substantial losses of $651M and $467M, respectively.
 - Storage recorded the highest gross margin (39.4%) and the least negative net margin (-14.6%), with sales of $167M.
 - APAC contributed the highest regional net sales ($147.98M) but reported a net loss of $1.52M (-1.03% net margin). EU was marginally profitable (0.62% net margin), while LATAM was near break-even (-0.08%).
 
-**Recommendations: **
+**Recommendations:**
 
 - Investigate operating expenses allocated to Notebooks and Peripherals to identify opportunities to reduce losses.
 - Review APAC's cost structure and replicate successful practices from profitable EU countries to improve regional profitability.
-
-![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104531.png)
 
 #### 4. Supply Chain View:
 
@@ -97,8 +91,6 @@ To monitor demand forecast accuracy, net forecast error, and customer- and produ
 
 - Investigate the causes of under-forecasting and adjust forecasting methods to reduce systematic bias.
 - Prioritize inventory planning for Notebooks, Accessories, and Peripherals, with adequate stock preparation ahead of the September–December peak season.
-
-![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104609.png)
 
 #### 5. Executive View:
 
