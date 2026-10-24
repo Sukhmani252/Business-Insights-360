@@ -34,6 +34,18 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 1. Finance View:
 
+1. Finance View: Displays revenue growth, profitability, gross margins, and a full glimpse of the P & L statement to track financial performance.
+
+Key Insights:
+
+- Net sales grew by 43.9% to $10.63B since last year but still 43.6% less than the target; net profit remained negative at -$1.72B (-16.14%). Gross margin was 37.84%, while operating expenses reached $5.74B (approximately 54% of net sales), growing 48%, faster than sales.
+- Only 50% of gross sales ($21.26B) translated into net sales. Pre-invoice and post-invoice deductions accounted for 23.7% and 26.3%, respectively.
+
+Recommendations
+
+- Control operating expense growth, particularly advertising and promotional spending, to optimize sales growth.
+- Review discount approvals and renegotiate deduction terms to improve net sales.
+
 ![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104237.png)
 
 #### 2. Sales View:
