@@ -50,7 +50,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 5. Executive View:
 
-![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104655.png)
+
 
 
 ## Technical Learnings:
