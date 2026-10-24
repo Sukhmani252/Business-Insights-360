@@ -44,8 +44,8 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 **Recommendations:**
 
-- Control operating expense growth, particularly advertising and promotional spending, to optimize sales growth.
-- Tighten discount approvals, renegotiate deduction terms, and reduce manufacturing and operating costs together to close the $1.72bn loss.
+- Control operating expense growth, particularly advertising and promotional spending, to optimize profits.
+- Tighten discount approvals, renegotiate deduction terms, and reduce manufacturing and operating costs together to cover the $1.72bn loss.
 - Align inventory, promotions, and budgets with the September to December peak, and run targeted campaigns during the January to June slowdown.
 
 #### 2. Sales View:
@@ -68,7 +68,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 **Key Insights:**
 
-- All segments reported negative net margins (-14.6% to -16.4%), despite gross margins of approximately 38%. Notebooks and Peripherals contributed around 65% of sales and substantial losses of $651M and $467M, respectively.
+- All product segments reported negative net margins (-14.6% to -16.4%), despite gross margins of approximately 38%. Notebooks and Peripherals contributed around 65% of sales and substantial losses of $651M and $467M, respectively.
 - Storage recorded the highest gross margin (39.4%) and the least negative net margin (-14.6%), with sales of $167M.
 - Every region except LATAM reported a net loss. APAC had the largest loss (-$972M) on 55% of net sales, North America had the weakest margin (-24.2%), and EU lost -12.0%. LATAM was the only profitable region ($98M profit, 33.07% net margin), though on a small base of $297M in sales (2.8% of total).
 
