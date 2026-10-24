@@ -50,7 +50,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 2. Sales View:
 
-*Analyzed customer and product performance to identify key revenue contributors and opportunities to improve profitability.*
+*Displays customer and product performance to identify key revenue contributors and opportunities to improve profitability.*
 
 **Key Insights:**
 
@@ -79,7 +79,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 #### 4. Supply Chain View:
 
-*To monitor demand forecast accuracy, net forecast error, and customer- and product-level inventory risks to support better replenishment and stock availability decisions.*
+*Displays demand forecast accuracy, net forecast error, and customer- and product-level inventory risks to support better replenishment and stock availability decisions.*
 
 **Key Insights:**
 
