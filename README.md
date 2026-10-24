@@ -6,7 +6,7 @@ AtliQ Hardware is a fast-growing global electronics company operating across **2
 
 ## Dataset Structure:
 
-The project uses a **Star Schema** data model, with multiple fact tables connected to shared dimension tables. The data comes from a SQL database, along with some additional CSV files.
+The data comes from a SQL database and some additional CSV files, structured using a **star schema** with multiple fact tables connected to shared dimension tables.
 
 #### Fact Tables: 
 
@@ -29,6 +29,12 @@ The project uses a **Star Schema** data model, with multiple fact tables connect
 - *operational_expenses* – Ads, promotion, and other operational expenses data used for profitability analysis
 
 ## Key Insights and Recommendations:
+
+The dashboard is built with 5 views that answer key business questions across finance, sales, marketing, and supply chain.
+
+#### 1. Finance View:
+
+![image](https://github.com/Sukhmani252/Business-Insights-360/blob/main/Screenshot%202026-10-23%20104237.png)
 
 ## Technical Learnings:
 
