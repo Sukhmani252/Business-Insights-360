@@ -48,6 +48,8 @@ The dashboard is built with 5 views that answer key business questions across fi
 - Tighten discount approvals, renegotiate deduction terms, and reduce manufacturing and operating costs together to cover the $1.72bn loss.
 - Align inventory, promotions, and budgets with the September to December peak, and run targeted campaigns during the January to June slowdown.
 
+    <img width="1587" height="889" alt="52FDE640-AE62-4ABF-B593-6A14356C6919_1_201_a" src="https://github.com/user-attachments/assets/b6880596-af34-4ab2-a1e8-b9a487b9367a" />
+
 #### 2. Sales View:
 
 *Displays customer and product performance to identify key revenue contributors and opportunities to improve profitability.*
