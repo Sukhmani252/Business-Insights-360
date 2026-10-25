@@ -39,6 +39,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 <img width="1583" height="871" alt="706F5FC5-88D4-45D2-9AD4-25927FCD29D8_1_201_a" src="https://github.com/user-attachments/assets/f360eb5d-3f39-4c93-8c42-fa0dda85f1b8" />
 
 
+
 **Key Insights:**
 
 - Net sales in 2025 grew by 43.9% to $10.63B since last year but were still 43.6% less than the target; net profit remained negative at -$1.72B (-16.14%). Gross margin was 37.84%, while operating expenses reached $5.74B (approximately 54% of net sales), growing 48%, faster than sales.
@@ -58,6 +59,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 <img width="1580" height="865" alt="BC8DC61C-3A74-4150-A54C-7D723E68A7CC_1_201_a" src="https://github.com/user-attachments/assets/500ea79a-24ae-4c92-bba6-06878be6d1ca" />
 
 
+
 **Key Insights:**
 
 - Amazon (36.9%) and Sage (32.8%) recorded gross margins below the overall average of 37.84%, while AtliQ Exclusive achieved the highest margin at 46.2%.
@@ -73,6 +75,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 *Displays product segment performance, sales contribution, gross margins, and net profitability across segments and regions.*
 
 <img width="1584" height="865" alt="A41CCFD1-6766-4A6B-94D8-37B28593652C_1_201_a" src="https://github.com/user-attachments/assets/682fcc85-1e7e-48db-83c6-649c17b70306" />
+
 
 
 **Key Insights:**
@@ -93,6 +96,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 <img width="1569" height="877" alt="14FA0FF7-EEFD-4AB3-BB4E-E0A788B3D6C3_1_201_a" src="https://github.com/user-attachments/assets/cdc50df6-02b4-44f2-9023-7066e4da81ee" />
 
 
+
 **Key Insights:**
 
 - Forecast accuracy improved to 80.89% (+3.8%), but net error worsened to -10.3%, indicating a persistent under-forecasting bias. Many customers and products were flagged for out-of-stock risk.
@@ -109,6 +113,7 @@ The dashboard is built with 5 views that answer key business questions across fi
 *Displays key financial metrics, revenue contribution, top customers and products, market share, and sub-region performance for a high-level business overview.*
 
 <img width="1577" height="862" alt="5AFAA3C2-656B-41CD-A738-1910A8A9C9CD_1_201_a" src="https://github.com/user-attachments/assets/9aaa767f-fa9f-45cc-9451-62d1d2693264" />
+
 
 
 **Key Insights:**
