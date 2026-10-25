@@ -36,6 +36,8 @@ The dashboard is built with 5 views that answer key business questions across fi
 
 *Displays revenue growth, profitability, gross margins, and a full P & L statement to track financial performance.*
 
+<img width="1587" height="889" alt="52FDE640-AE62-4ABF-B593-6A14356C6919_1_201_a" src="https://github.com/user-attachments/assets/b6880596-af34-4ab2-a1e8-b9a487b9367a" />
+
 **Key Insights:**
 
 - Net sales in 2025 grew by 43.9% to $10.63B since last year but were still 43.6% less than the target; net profit remained negative at -$1.72B (-16.14%). Gross margin was 37.84%, while operating expenses reached $5.74B (approximately 54% of net sales), growing 48%, faster than sales.
@@ -47,8 +49,6 @@ The dashboard is built with 5 views that answer key business questions across fi
 - Control operating expense growth, particularly advertising and promotional spending, to optimize profits.
 - Tighten discount approvals, renegotiate deduction terms, and reduce manufacturing and operating costs together to cover the $1.72bn loss.
 - Align inventory, promotions, and budgets with the September to December peak, and run targeted campaigns during the January to June slowdown.
-
-    <img width="1587" height="889" alt="52FDE640-AE62-4ABF-B593-6A14356C6919_1_201_a" src="https://github.com/user-attachments/assets/b6880596-af34-4ab2-a1e8-b9a487b9367a" />
 
 #### 2. Sales View:
 
